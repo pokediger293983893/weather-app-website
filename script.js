@@ -1,6 +1,6 @@
 // script.js
 
-const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
+const API_KEY = '8f1242c8a3f6c6192a2688b39128d656';
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 // Function to fetch weather data
